@@ -1,0 +1,22 @@
+#This is the last part of config.yml and I've pulled the default values from here
+
+#---------------------------------REMOVE THIS SECTION-----------------------------------#
+#You can and are expected to remove this section. It's just being used as a cache to
+#  generate default lang messages for en_US
+NO_PERMISSION_FOR_COMMAND: "&cYou do not have permission to run this command!"
+CREATE_COMMAND_DESCRIPTION: "&aCreates a map from the provided link."
+BLACKLISTED_WORD_IN_LINK: "&aThe link contains a blacklisted word!"
+IMG_NOT_FOUND: "&aImage not found!"
+MAP_PURCHASE_SUCCESSFUL_MONEY: "&aYou have successfully purchased the map for 100$."
+INSUFFICIENT_FUNDS: "&cYou do not have enough funds!"
+INVALID_ITEM_CONFIG: "&4Invalid Item defined in config!"
+MAP_PURCHASE_SUCCESSFUL_ITEMS: "&aYou have successfully purchased the map for 5 Diamonds."
+INSUFFICIENT_ITEMS: "&cYou do not have enough items!"
+MAP_CREATION_SUCCESSFUL: "&9Map successfully created."
+HELP_COMMAND_DESCRIPTION: "&aShows description of all available commands."
+RELOAD_COMMAND_DESCRIPTION: "&aReloads the plugin."
+RELOAD_SUCCESSFUL: "&9Reload successful. Please note that language files update on restart only."
+RELOAD_FAILED: "&4Reload Failed! Please check console for details."
+INVALID_COMMAND: "&cThat command does not exist."
+HELP_SUGGESTION: "&aTry using &e/im help&a to get a list of available commands."
+#---------------------------------REMOVE THIS SECTION-----------------------------------#
